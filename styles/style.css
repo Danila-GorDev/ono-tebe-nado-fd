@@ -59,7 +59,7 @@ address {
 
 .cover__title {
   position: relative;
-  padding-top: 165px; 
+  padding-top: 165px;
   padding-left: 50px;
   font-weight: 700;
   font-size: 100px;
@@ -166,7 +166,7 @@ address {
   text-transform: uppercase;
 }
 
-.card__text{ 
+.card__text {
   position: relative;
   font-weight: 400;
   font-size: 20px;
